@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "PglRobot"
+          find: "iisgaurav"
 
-          replace: "IzumiRobot"
+          replace: "MickeyxD"
 
       - name: Create Pull Request
 

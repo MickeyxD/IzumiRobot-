@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "IisGaurav"
+          find: "Gaurav"
 
-          replace: "MickeyxD"
+          replace: "Mickey"
 
       - name: Create Pull Request
 

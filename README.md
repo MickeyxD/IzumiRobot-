@@ -9,24 +9,24 @@
 </p>
 
 <p align="center">
-<a href="https://app.codacy.com/gh/IisGaurav/IzumiRobot?utm_source=github.com&utm_medium=referral&utm_content=IisGaurav/IzumiRobot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
+<a href="https://app.codacy.com/gh/MickeyxD/IzumiRobot?utm_source=github.com&utm_medium=referral&utm_content=MickeyxD/IzumiRobot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
-<a href="https://github.com/MickeyxD/IzumiRobot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/IisGaurav/IzumiRobot" /> </a>
-<a href="http://hits.dwyl.com/IisGaurav/IzumiRobot" alt="HitCount"> <img src="http://hits.dwyl.com/IisGaurav/IzumiRobot.svg" /> </a>
+<a href="https://github.com/MickeyxD/IzumiRobot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/MickeyxD/IzumiRobot" /> </a>
+<a href="http://hits.dwyl.com/MickeyxD/IzumiRobot" alt="HitCount"> <img src="http://hits.dwyl.com/MickeyxD/IzumiRobot.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/IisGaurav/IzumiRobot?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/IisGaurav/IzumiRobot" /> </a>
-<a href="https://github.com/MickeyxD/IzumiRobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/IisGaurav/IzumiRobot?style=flat&logo=github" /> </a>
-<a href="https://github.com/MickeyxD/IzumiRobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/IisGaurav/IzumiRobot?label=Forks&logo=github" /> </a>
-<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/IisGaurav/IzumiRobot?color=success" /> </a>
-<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/IisGaurav/IzumiRobot?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/MickeyxD/IzumiRobot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/MickeyxD/IzumiRobot" /> </a>
+<a href="https://github.com/MickeyxD/IzumiRobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/MickeyxD/IzumiRobot?style=flat&logo=github" /> </a>
+<a href="https://github.com/MickeyxD/IzumiRobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/MickeyxD/IzumiRobot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/MickeyxD/IzumiRobot?color=success" /> </a>
+<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/MickeyxD/IzumiRobot?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/IisGaurav/IzumiRobot?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/MickeyxD/IzumiRobot?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 <a href="https://github.com/MickeyxD/IzumiRobot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/IisGaurav/IzumiRobot" /> </a>
+<a href="https://github.com/MickeyxD/IzumiRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/MickeyxD/IzumiRobot" /> </a>
 <a href="https://github.com/MickeyxD/IzumiRobot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 
-# <p align="left"><a href="https://github.com/MickeyxD/IzumiRobot"><img src="https://github-readme-stats.vercel.app/api/pin?username=IisGaurav&show_icons=true&theme=dark&hide_border=true&repo=IzumiRobot"></a></p><p align="centre"><a href="https://t.me/AuraXSupport"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/MickeyxD/IzumiRobot/stargazers"><img src="https://img.shields.io/github/stars/IisGaurav/IzumiRobot?style=social"></a><a href="https://github.com/MickeyxD/IzumiRobot/fork"><img src="https://img.shields.io/github/forks/IisGaurav/IzumiRobot?label=Fork&logoColor=blue&style=social"></a> <a href="https://github.com/MickeyxD/IzumiRobot"><img src="https://img.shields.io/github/last-commit/IisGaurav/IzumiRobot?style=flat-square"></a></p>
+# <p align="left"><a href="https://github.com/MickeyxD/IzumiRobot"><img src="https://github-readme-stats.vercel.app/api/pin?username=MickeyxD&show_icons=true&theme=dark&hide_border=true&repo=IzumiRobot"></a></p><p align="centre"><a href="https://t.me/AuraXSupport"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/MickeyxD/IzumiRobot/stargazers"><img src="https://img.shields.io/github/stars/MickeyxD/IzumiRobot?style=social"></a><a href="https://github.com/MickeyxD/IzumiRobot/fork"><img src="https://img.shields.io/github/forks/MickeyxD/IzumiRobot?label=Fork&logoColor=blue&style=social"></a> <a href="https://github.com/MickeyxD/IzumiRobot"><img src="https://img.shields.io/github/last-commit/MickeyxD/IzumiRobot?style=flat-square"></a></p>
 
 
 
@@ -45,7 +45,7 @@ IzumiRobot is a simple one-punch solution to your group management needs and has
 * Bot Link:  <a href="https://t.me/IzumiRobot" alt="IzumiRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-IzumiRobot-blue" /> </a>
 * News channel: <a  href="https://t.me/IzumiRobotUpdates" alt="IzumiRobot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-IzumiRobot%20Updates-9cf" /> </a>
 
-Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/IisGaurav/IzumiRobot?color=white&label=%F0%9F%8C%9F%20star">
+Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MickeyxD/IzumiRobot?color=white&label=%F0%9F%8C%9F%20star">
 
 
 ## How to setup/deploy.

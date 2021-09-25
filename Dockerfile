@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/IzumiRobot
-RUN git clone -b shiken https://github.com/iisgaurav/IzumiRobot /root/IzumiRobot
+RUN git clone -b shiken https://github.com/MickeyxD/IzumiRobot /root/IzumiRobot
 WORKDIR /root/IzumiRobot
 
 #Copy config file to /root/IzumiRobot/IzumiRobot

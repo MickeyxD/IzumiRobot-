@@ -106,8 +106,8 @@ IzumiRobot_IMG = "https://telegra.ph/file/f1d7b30b05ba9f0dbf4e5.jpg"
 IzumiRobotG_IMG = "https://telegra.ph/file/e8881931bc000c75e8f13.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting [Gaurav Verma](https://t.me/iisgaurav).
- Using [PayPal](paypal.me/iisgaurav).
+ You can support the project by contacting [Gaurav Verma](https://t.me/MickeyxD).
+ Using [PayPal](paypal.me/MickeyxD).
  Those who cannot provide monetary support are welcome to help us develop the bot at @VegaCodes.
  """
 
@@ -245,7 +245,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="SOURCE CODE ⚡️",
-                                url="https://github.com/iisgaurav/IzumiRobot",
+                                url="https://github.com/MickeyxD/IzumiRobot",
                             ),
                         ],
                     ]

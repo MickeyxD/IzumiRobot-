@@ -8,7 +8,7 @@
          "manager",
          "IzumiRobot"
       ],   
-   "repository": "https://github.com/iisgaurav/IzumiRobot",
+   "repository": "https://github.com/MickeyxD/IzumiRobot",
    "addons": [
       {
          "options": {
@@ -45,7 +45,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "iisgaurav"
+         "value": "MickeyxD"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: IzumiRobot. If this ever points to IzumiRobot support than consider you made an enemy.",

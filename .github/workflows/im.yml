@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "Gaurav"
+          find: "AuraXSupport"
 
-          replace: "Mickey"
+          replace: "Izumi_Update"
 
       - name: Create Pull Request
 

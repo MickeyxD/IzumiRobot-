@@ -1,6 +1,6 @@
-import PglRobot.modules.sql.blacklistusers_sql as sql
-from PglRobot import ALLOW_EXCL
-from PglRobot import DEV_USERS, DRAGONS, DEMONS, TIGERS, WOLVES
+import IzumiRobot.modules.sql.blacklistusers_sql as sql
+from IzumiRobot import ALLOW_EXCL
+from IzumiRobot import DEV_USERS, DRAGONS, DEMONS, TIGERS, WOLVES
 
 from telegram import Update
 from telegram.ext import CommandHandler, MessageHandler, RegexHandler, Filters

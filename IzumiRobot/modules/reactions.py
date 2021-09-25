@@ -1,7 +1,7 @@
 import random
 
-from PglRobot import dispatcher
-from PglRobot.modules.disable import DisableAbleCommandHandler
+from IzumiRobot import dispatcher
+from IzumiRobot.modules.disable import DisableAbleCommandHandler
 from telegram import Update
 from telegram.ext import CallbackContext, run_async
 

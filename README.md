@@ -2,57 +2,57 @@
   <img src="https://telegra.ph/file/06129d917642f323f77a3.jpg">
 </p>
 
-# PglRobot 
+# IzumiRobot 
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
 </p>
 
 <p align="center">
-<a href="https://app.codacy.com/gh/IisGaurav/PglRobot?utm_source=github.com&utm_medium=referral&utm_content=IisGaurav/PglRobot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
+<a href="https://app.codacy.com/gh/IisGaurav/IzumiRobot?utm_source=github.com&utm_medium=referral&utm_content=IisGaurav/IzumiRobot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/IisGaurav/PglRobot" /> </a>
-<a href="http://hits.dwyl.com/IisGaurav/PglRobot" alt="HitCount"> <img src="http://hits.dwyl.com/IisGaurav/PglRobot.svg" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/IisGaurav/IzumiRobot" /> </a>
+<a href="http://hits.dwyl.com/IisGaurav/IzumiRobot" alt="HitCount"> <img src="http://hits.dwyl.com/IisGaurav/IzumiRobot.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/iisgaurav/PglRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/IisGaurav/PglRobot?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/IisGaurav/PglRobot" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/IisGaurav/PglRobot?style=flat&logo=github" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/IisGaurav/PglRobot?label=Forks&logo=github" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/IisGaurav/PglRobot?color=success" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/IisGaurav/PglRobot?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/IisGaurav/IzumiRobot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/IisGaurav/IzumiRobot" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/IisGaurav/IzumiRobot?style=flat&logo=github" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/IisGaurav/IzumiRobot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/IisGaurav/IzumiRobot?color=success" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/IisGaurav/IzumiRobot?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/iisgaurav/PglRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/IisGaurav/PglRobot?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/IisGaurav/IzumiRobot?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/IisGaurav/PglRobot" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/IisGaurav/IzumiRobot" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/PglRobotUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/iisgaurav/PglRobot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://t.me/IzumiRobotUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/iisgaurav/IzumiRobot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 
-# <p align="left"><a href="https://github.com/iisgaurav/PglRobot"><img src="https://github-readme-stats.vercel.app/api/pin?username=IisGaurav&show_icons=true&theme=dark&hide_border=true&repo=PglRobot"></a></p><p align="centre"><a href="https://t.me/AuraXSupport"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/iisgaurav/PglRobot/stargazers"><img src="https://img.shields.io/github/stars/IisGaurav/PglRobot?style=social"></a><a href="https://github.com/iisgaurav/PglRobot/fork"><img src="https://img.shields.io/github/forks/IisGaurav/PglRobot?label=Fork&logoColor=blue&style=social"></a> <a href="https://github.com/iisgaurav/PglRobot"><img src="https://img.shields.io/github/last-commit/IisGaurav/PglRobot?style=flat-square"></a></p>
+# <p align="left"><a href="https://github.com/iisgaurav/IzumiRobot"><img src="https://github-readme-stats.vercel.app/api/pin?username=IisGaurav&show_icons=true&theme=dark&hide_border=true&repo=IzumiRobot"></a></p><p align="centre"><a href="https://t.me/AuraXSupport"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/iisgaurav/IzumiRobot/stargazers"><img src="https://img.shields.io/github/stars/IisGaurav/IzumiRobot?style=social"></a><a href="https://github.com/iisgaurav/IzumiRobot/fork"><img src="https://img.shields.io/github/forks/IisGaurav/IzumiRobot?label=Fork&logoColor=blue&style=social"></a> <a href="https://github.com/iisgaurav/IzumiRobot"><img src="https://img.shields.io/github/last-commit/IisGaurav/IzumiRobot?style=flat-square"></a></p>
 
 
 
-PglRobot is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
+IzumiRobot is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
-* Bot Link:  <a href="https://t.me/PglRobot" alt="PglRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-PglRobot-blue" /> </a>
-* News channel: <a  href="https://t.me/PglRobotUpdates" alt="PglRobot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-PglRobot%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/IzumiRobot" alt="IzumiRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-IzumiRobot-blue" /> </a>
+* News channel: <a  href="https://t.me/IzumiRobotUpdates" alt="IzumiRobot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-IzumiRobot%20Updates-9cf" /> </a>
 
-Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/IisGaurav/PglRobot?color=white&label=%F0%9F%8C%9F%20star">
+Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/IisGaurav/IzumiRobot?color=white&label=%F0%9F%8C%9F%20star">
 
 
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
  - Edit any mentions of @AuraXSupport to your own support chat. 
- - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/iisgaurav/PglRobot)
+ - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/iisgaurav/IzumiRobot)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats.
 
 
@@ -66,7 +66,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iisgaurav/PglRobot.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iisgaurav/IzumiRobot.git)
 
 </details>  
 <details>
@@ -81,7 +81,7 @@ This is because markdown parsing is done by iterating through a dict, which is o
 There are two possible ways of configuring your bot: a config.py file, or ENV variables.
 
 The preferred version is to use a `config.py` file, as it makes it easier to see all your settings grouped together.
-This file should be placed in your `PglRobot` folder, alongside the `__main__.py` file. 
+This file should be placed in your `IzumiRobot` folder, alongside the `__main__.py` file. 
 This is where your bot token will be loaded from, as well as your database URI (if you're using a database), and most of 
 your other settings.
 
@@ -90,7 +90,7 @@ defaults set in the sample_config, hence making it easier to upgrade.
 
 An example `config.py` file could be:
 ```
-from PglRobot.sample_config import Config
+from IzumiRobot.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 1100735944 # your telegram ID
@@ -204,7 +204,7 @@ All that is needed is that your .py file is in the modules folder.
 
 To add commands, make sure to import the dispatcher via
 
-`from PglRobot import dispatcher`.
+`from IzumiRobot import dispatcher`.
 
 You can then add commands using the usual
 
@@ -224,15 +224,15 @@ through the `/stats` command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-`python3 -m PglRobot`
+`python3 -m IzumiRobot`
 
 Note: the restart bat requires that User account control be disabled.
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [PglRobot Support](https://t.me/PglRbotSupport)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [IzumiRobot Support](https://t.me/PglRbotSupport)
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iisgaurav/PglRobot.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iisgaurav/IzumiRobot.git) 
 
 
 ## CREDITS 📍

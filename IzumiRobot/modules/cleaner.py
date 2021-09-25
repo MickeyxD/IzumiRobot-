@@ -1,14 +1,14 @@
 import html
 
-from PglRobot import ALLOW_EXCL, CustomCommandHandler, dispatcher
-from PglRobot.modules.disable import DisableAbleCommandHandler
-from PglRobot.modules.helper_funcs.chat_status import (
+from IzumiRobot import ALLOW_EXCL, CustomCommandHandler, dispatcher
+from IzumiRobot.modules.disable import DisableAbleCommandHandler
+from IzumiRobot.modules.helper_funcs.chat_status import (
     bot_can_delete,
     connection_status,
     dev_plus,
     user_admin,
 )
-from PglRobot.modules.sql import cleaner_sql as sql
+from IzumiRobot.modules.sql import cleaner_sql as sql
 from telegram import ParseMode, Update
 from telegram.ext import (
     CallbackContext,
@@ -228,7 +228,7 @@ Blue text cleaner removed any made up commands that people send in your chat.
  • `/listblue`*:* list currently whitelisted commands
  
  *Following are Disasters only commands, admins cannot use these:*
- • `/gignoreblue <word>`*:* globally ignorea bluetext cleaning of saved word across PglRobot.
+ • `/gignoreblue <word>`*:* globally ignorea bluetext cleaning of saved word across IzumiRobot.
  • `/ungignoreblue <word>`*:* remove said command from global cleaning list
 """
 

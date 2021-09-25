@@ -18,13 +18,13 @@ from asyncio import sleep
 from telethon.tl.types import DocumentAttributeAudio
 from collections import deque
 from googleapiclient.discovery import build
-from PglRobot.pgl import PglRobot
-from PglRobot import YOUTUBE_API_KEY
+from IzumiRobot.pgl import IzumiRobot
+from IzumiRobot import YOUTUBE_API_KEY
 from html import unescape
 import requests
 
 
-@PglRobot(pattern="^/yt(audio|video) (.*)")
+@IzumiRobot(pattern="^/yt(audio|video) (.*)")
 async def download_video(v_url):
     """For .ytdl command, download media from YouTube and many other sites."""
     url = v_url.pattern_match.group(2)

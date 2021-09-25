@@ -5,9 +5,9 @@ import time
 from functools import partial
 from contextlib import suppress
 
-import PglRobot.modules.sql.welcome_sql as sql
-import PglRobot
-from PglRobot import (
+import IzumiRobot.modules.sql.welcome_sql as sql
+import IzumiRobot
+from IzumiRobot import (
     DEV_USERS,
     LOGGER,
     OWNER_ID,
@@ -19,18 +19,18 @@ from PglRobot import (
     dispatcher,
     JOIN_LOGGER,
 )
-from PglRobot.modules.helper_funcs.chat_status import (
+from IzumiRobot.modules.helper_funcs.chat_status import (
     is_user_ban_protected,
     user_admin,
 )
-from PglRobot.modules.helper_funcs.misc import build_keyboard, revert_buttons
-from PglRobot.modules.helper_funcs.msg_types import get_welcome_type
-from PglRobot.modules.helper_funcs.string_handling import (
+from IzumiRobot.modules.helper_funcs.misc import build_keyboard, revert_buttons
+from IzumiRobot.modules.helper_funcs.msg_types import get_welcome_type
+from IzumiRobot.modules.helper_funcs.string_handling import (
     escape_invalid_curly_brackets,
     markdown_parser,
 )
-from PglRobot.modules.log_channel import loggable
-from PglRobot.modules.sql.global_bans_sql import is_user_gbanned
+from IzumiRobot.modules.log_channel import loggable
+from IzumiRobot.modules.sql.global_bans_sql import is_user_gbanned
 from telegram import (
     ChatPermissions,
     InlineKeyboardButton,
@@ -267,7 +267,7 @@ def new_member(update: Update, context: CallbackContext):
             # Welcome yourself
             elif new_mem.id == bot.id:
                 creator = None
-                if not PglRobot.ALLOW_CHATS:
+                if not IzumiRobot.ALLOW_CHATS:
                     with suppress(BadRequest):
                         update.effective_message.reply_text(
                             f"Groups are disabled for {bot.first_name}, I'm outta here."

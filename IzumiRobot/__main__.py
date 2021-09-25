@@ -4,7 +4,7 @@ import re
 from sys import argv
 from typing import Optional
 
-from PglRobot import (
+from IzumiRobot import (
     ALLOW_EXCL,
     CERT_PATH,
     DONATION_LINK,
@@ -24,9 +24,9 @@ from PglRobot import (
 
 # needed to dynamically load modules
 # NOTE: Module order is not guaranteed, specify that in the config file!
-from PglRobot.modules import ALL_MODULES
-from PglRobot.modules.helper_funcs.chat_status import is_user_admin
-from PglRobot.modules.helper_funcs.misc import paginate_modules
+from IzumiRobot.modules import ALL_MODULES
+from IzumiRobot.modules.helper_funcs.chat_status import is_user_admin
+from IzumiRobot.modules.helper_funcs.misc import paginate_modules
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode, Update
 from telegram.error import (
     BadRequest,
@@ -77,7 +77,7 @@ Hi {}, my name is {}!
 I am a  Powerfull  group management bot. You can find my list of available commands with /help.
 """
 G_START_TEXT = """
-Hello PglRobot Is In The Chat.
+Hello IzumiRobot Is In The Chat.
 Uptime - {}!
 """
 
@@ -101,9 +101,9 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-PglRobot_IMG = "https://telegra.ph/file/f1d7b30b05ba9f0dbf4e5.jpg"
+IzumiRobot_IMG = "https://telegra.ph/file/f1d7b30b05ba9f0dbf4e5.jpg"
 
-PglRobotG_IMG = "https://telegra.ph/file/e8881931bc000c75e8f13.jpg"
+IzumiRobotG_IMG = "https://telegra.ph/file/e8881931bc000c75e8f13.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project by contacting [Gaurav Verma](https://t.me/iisgaurav).
@@ -122,7 +122,7 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("PglRobot.modules." + module_name)
+    imported_module = importlib.import_module("IzumiRobot.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
 
@@ -216,7 +216,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_photo(
-                PglRobot_IMG,
+                IzumiRobot_IMG,
                 PM_START_TEXT.format(
                     escape_markdown(first_name), escape_markdown(context.bot.first_name)
                 ),
@@ -245,7 +245,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="SOURCE CODE ⚡️",
-                                url="https://github.com/iisgaurav/PglRobot",
+                                url="https://github.com/iisgaurav/IzumiRobot",
                             ),
                         ],
                     ]
@@ -253,7 +253,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_photo(
-            PglRobotG_IMG,
+            IzumiRobotG_IMG,
             G_START_TEXT.format(uptime),
         )
 
@@ -629,7 +629,7 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.sendMessage(
-                f"@{SUPPORT_CHAT}", "PglRobot now ready to work!"
+                f"@{SUPPORT_CHAT}", "IzumiRobot now ready to work!"
             )
         except Unauthorized:
             LOGGER.warning(

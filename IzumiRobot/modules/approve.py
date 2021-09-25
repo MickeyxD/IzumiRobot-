@@ -1,11 +1,11 @@
 import html
-from PglRobot.modules.disable import DisableAbleCommandHandler
-from PglRobot import dispatcher, DRAGONS
-from PglRobot.modules.helper_funcs.extraction import extract_user
+from IzumiRobot.modules.disable import DisableAbleCommandHandler
+from IzumiRobot import dispatcher, DRAGONS
+from IzumiRobot.modules.helper_funcs.extraction import extract_user
 from telegram.ext import CallbackContext, run_async, CallbackQueryHandler
-import PglRobot.modules.sql.approve_sql as sql
-from PglRobot.modules.helper_funcs.chat_status import user_admin
-from PglRobot.modules.log_channel import loggable
+import IzumiRobot.modules.sql.approve_sql as sql
+from IzumiRobot.modules.helper_funcs.chat_status import user_admin
+from IzumiRobot.modules.log_channel import loggable
 from telegram import ParseMode, InlineKeyboardMarkup, InlineKeyboardButton, Update
 from telegram.utils.helpers import mention_html
 from telegram.error import BadRequest

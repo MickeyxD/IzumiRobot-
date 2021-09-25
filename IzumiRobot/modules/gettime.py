@@ -2,8 +2,8 @@ import datetime
 from typing import List
 
 import requests
-from PglRobot import TIME_API_KEY, dispatcher
-from PglRobot.modules.disable import DisableAbleCommandHandler
+from IzumiRobot import TIME_API_KEY, dispatcher
+from IzumiRobot.modules.disable import DisableAbleCommandHandler
 from telegram import ParseMode, Update
 from telegram.ext import CallbackContext, run_async
 

@@ -5,23 +5,23 @@ from telegram import ParseMode, Message
 from telegram.error import BadRequest
 from telegram.ext import CommandHandler, run_async
 
-import PglRobot.modules.sql.notes_sql as sql
-from PglRobot import dispatcher, LOGGER, OWNER_ID, JOIN_LOGGER, SUPPORT_CHAT
-from PglRobot.__main__ import DATA_IMPORT
-from PglRobot.modules.helper_funcs.chat_status import user_admin
-from PglRobot.modules.helper_funcs.alternate import typing_action
+import IzumiRobot.modules.sql.notes_sql as sql
+from IzumiRobot import dispatcher, LOGGER, OWNER_ID, JOIN_LOGGER, SUPPORT_CHAT
+from IzumiRobot.__main__ import DATA_IMPORT
+from IzumiRobot.modules.helper_funcs.chat_status import user_admin
+from IzumiRobot.modules.helper_funcs.alternate import typing_action
 
-# from PglRobot.modules.rules import get_rules
-import PglRobot.modules.sql.rules_sql as rulessql
+# from IzumiRobot.modules.rules import get_rules
+import IzumiRobot.modules.sql.rules_sql as rulessql
 
-# from PglRobot.modules.sql import warns_sql as warnssql
-import PglRobot.modules.sql.blacklist_sql as blacklistsql
-from PglRobot.modules.sql import disable_sql as disabledsql
+# from IzumiRobot.modules.sql import warns_sql as warnssql
+import IzumiRobot.modules.sql.blacklist_sql as blacklistsql
+from IzumiRobot.modules.sql import disable_sql as disabledsql
 
-# from PglRobot.modules.sql import cust_filters_sql as filtersql
-# import PglRobot.modules.sql.welcome_sql as welcsql
-import PglRobot.modules.sql.locks_sql as locksql
-from PglRobot.modules.connection import connected
+# from IzumiRobot.modules.sql import cust_filters_sql as filtersql
+# import IzumiRobot.modules.sql.welcome_sql as welcsql
+import IzumiRobot.modules.sql.locks_sql as locksql
+from IzumiRobot.modules.connection import connected
 
 
 @run_async
@@ -325,7 +325,7 @@ def export_data(update, context):
         },
     }
     baccinfo = json.dumps(backup, indent=4)
-    with open("PglRobot{}.backup".format(chat_id), "w") as f:
+    with open("IzumiRobot{}.backup".format(chat_id), "w") as f:
         f.write(str(baccinfo))
     context.bot.sendChatAction(current_chat_id, "upload_document")
     tgl = time.strftime("%H:%M:%S - %d/%m/%Y", time.localtime(time.time()))
@@ -341,15 +341,15 @@ def export_data(update, context):
         pass
     context.bot.sendDocument(
         current_chat_id,
-        document=open("PglRobot{}.backup".format(chat_id), "rb"),
-        caption="*Successfully Exported backup:*\nChat: `{}`\nChat ID: `{}`\nOn: `{}`\n\nNote: This `PglRobot-Backup` was specially made for notes.".format(
+        document=open("IzumiRobot{}.backup".format(chat_id), "rb"),
+        caption="*Successfully Exported backup:*\nChat: `{}`\nChat ID: `{}`\nOn: `{}`\n\nNote: This `IzumiRobot-Backup` was specially made for notes.".format(
             chat.title, chat_id, tgl
         ),
         timeout=360,
         reply_to_message_id=msg.message_id,
         parse_mode=ParseMode.MARKDOWN,
     )
-    os.remove("PglRobot{}.backup".format(chat_id))  # Cleaning file
+    os.remove("IzumiRobot{}.backup".format(chat_id))  # Cleaning file
 
 
 # Temporary data

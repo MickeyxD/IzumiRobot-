@@ -6,8 +6,8 @@ import time
 import uuid
 from io import BytesIO
 
-import PglRobot.modules.sql.feds_sql as sql
-from PglRobot import (
+import IzumiRobot.modules.sql.feds_sql as sql
+from IzumiRobot import (
     EVENT_LOGS,
     LOGGER,
     SUPPORT_CHAT,
@@ -17,15 +17,15 @@ from PglRobot import (
     WOLVES,
     dispatcher,
 )
-from PglRobot.modules.disable import DisableAbleCommandHandler
-from PglRobot.modules.helper_funcs.alternate import send_message
-from PglRobot.modules.helper_funcs.chat_status import is_user_admin
-from PglRobot.modules.helper_funcs.extraction import (
+from IzumiRobot.modules.disable import DisableAbleCommandHandler
+from IzumiRobot.modules.helper_funcs.alternate import send_message
+from IzumiRobot.modules.helper_funcs.chat_status import is_user_admin
+from IzumiRobot.modules.helper_funcs.extraction import (
     extract_unt_fedban,
     extract_user,
     extract_user_fban,
 )
-from PglRobot.modules.helper_funcs.string_handling import markdown_parser
+from IzumiRobot.modules.helper_funcs.string_handling import markdown_parser
 from telegram import (
     InlineKeyboardButton,
     InlineKeyboardMarkup,
@@ -1408,10 +1408,10 @@ def fed_ban_list(update: Update, context: CallbackContext):
                 backups += json.dumps(json_parser)
                 backups += "\n"
             with BytesIO(str.encode(backups)) as output:
-                output.name = "PglRobot_fbanned_users.json"
+                output.name = "IzumiRobot_fbanned_users.json"
                 update.effective_message.reply_document(
                     document=output,
-                    filename="PglRobot_fbanned_users.json",
+                    filename="IzumiRobot_fbanned_users.json",
                     caption="Total {} User are blocked by the Federation {}.".format(
                         len(getfban), info["fname"]
                     ),
@@ -1453,10 +1453,10 @@ def fed_ban_list(update: Update, context: CallbackContext):
                 )
                 backups += "\n"
             with BytesIO(str.encode(backups)) as output:
-                output.name = "PglRobot_fbanned_users.csv"
+                output.name = "IzumiRobot_fbanned_users.csv"
                 update.effective_message.reply_document(
                     document=output,
-                    filename="PglRobot_fbanned_users.csv",
+                    filename="IzumiRobot_fbanned_users.csv",
                     caption="Total {} User are blocked by Federation {}.".format(
                         len(getfban), info["fname"]
                     ),

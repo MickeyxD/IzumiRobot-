@@ -1,4 +1,4 @@
 @echo off
-TITLE PglRobot
-:: Enables virtual env mode and then starts PglRobot
-env\scripts\activate.bat && py -m PglRobot
+TITLE IzumiRobot
+:: Enables virtual env mode and then starts IzumiRobot
+env\scripts\activate.bat && py -m IzumiRobot

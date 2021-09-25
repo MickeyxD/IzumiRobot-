@@ -1,9 +1,9 @@
 import html
 import random
-import PglRobot.modules.truth_and_dare_string as truth_and_dare_string
-from PglRobot import dispatcher
+import IzumiRobot.modules.truth_and_dare_string as truth_and_dare_string
+from IzumiRobot import dispatcher
 from telegram import ParseMode, Update, Bot
-from PglRobot.modules.disable import DisableAbleCommandHandler
+from IzumiRobot.modules.disable import DisableAbleCommandHandler
 from telegram.ext import CallbackContext, run_async
 
 

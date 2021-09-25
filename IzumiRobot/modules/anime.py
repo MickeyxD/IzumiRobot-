@@ -5,8 +5,8 @@ import textwrap
 import bs4
 import jikanpy
 import requests
-from PglRobot import dispatcher
-from PglRobot.modules.disable import DisableAbleCommandHandler
+from IzumiRobot import dispatcher
+from IzumiRobot.modules.disable import DisableAbleCommandHandler
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode, Update
 from telegram.ext import CallbackContext, run_async
 

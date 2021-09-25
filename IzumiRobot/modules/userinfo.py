@@ -13,7 +13,7 @@ from telegram.ext.dispatcher import run_async
 from telegram.error import BadRequest
 from telegram.utils.helpers import escape_markdown, mention_html
 
-from PglRobot import (
+from IzumiRobot import (
     DEV_USERS,
     OWNER_ID,
     DRAGONS,
@@ -24,15 +24,15 @@ from PglRobot import (
     dispatcher,
     sw,
 )
-from PglRobot.__main__ import STATS, TOKEN, USER_INFO
-import PglRobot.modules.sql.userinfo_sql as sql
-from PglRobot.modules.disable import DisableAbleCommandHandler
-from PglRobot.modules.sql.global_bans_sql import is_user_gbanned
-from PglRobot.modules.sql.afk_sql import is_afk, check_afk_status
-from PglRobot.modules.sql.users_sql import get_user_num_chats
-from PglRobot.modules.helper_funcs.chat_status import sudo_plus
-from PglRobot.modules.helper_funcs.extraction import extract_user
-from PglRobot import telethn as PglRobotTelethonClient, TIGERS, DRAGONS, DEMONS
+from IzumiRobot.__main__ import STATS, TOKEN, USER_INFO
+import IzumiRobot.modules.sql.userinfo_sql as sql
+from IzumiRobot.modules.disable import DisableAbleCommandHandler
+from IzumiRobot.modules.sql.global_bans_sql import is_user_gbanned
+from IzumiRobot.modules.sql.afk_sql import is_afk, check_afk_status
+from IzumiRobot.modules.sql.users_sql import get_user_num_chats
+from IzumiRobot.modules.helper_funcs.chat_status import sudo_plus
+from IzumiRobot.modules.helper_funcs.extraction import extract_user
+from IzumiRobot import telethn as IzumiRobotTelethonClient, TIGERS, DRAGONS, DEMONS
 
 
 def no_by_per(totalhp, percentage):
@@ -160,7 +160,7 @@ def get_id(update: Update, context: CallbackContext):
             )
 
 
-@PglRobotTelethonClient.on(
+@IzumiRobotTelethonClient.on(
     events.NewMessage(
         pattern="/ginfo ", from_users=(TIGERS or []) + (DRAGONS or []) + (DEMONS or [])
     )

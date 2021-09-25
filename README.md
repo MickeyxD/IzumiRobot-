@@ -25,7 +25,7 @@ CREDITS
 ```
 ❤️ IzumiRobot = MickeyxD
 
-This Bot Is Created By @A_Viyu ! if your kanging this without fork at least give a credit to get a smile of my hard work.
+This Bot Is Created By @M1ckey_0p ! if your kanging this without fork at least give a credit to get a smile of my hard work.
 
 
 

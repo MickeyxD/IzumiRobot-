@@ -236,7 +236,7 @@ For starters click on this button
 
 
 ## CREDITS 📍
-The bot is based on the work done by Gaurav. This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
+The bot is based on the work done by Mickey. This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 
 Any other authorship/credits can be seen through the commits.

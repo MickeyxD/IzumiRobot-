@@ -29,6 +29,3 @@ This Bot Is Created By @M1ckey_0p ! if your kanging this without fork at least g
 
 
 
-
-```
-
